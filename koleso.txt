@@ -1,0 +1,7 @@
+#rabotau nad failom 
+#sdelal
+#xo4y otpravit6 na git
+#git add koleso.txt
+#git status
+#git git commit -m "cikl"
+#git push
