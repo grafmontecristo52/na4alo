@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "pidor"
+echo "4mo"
+echo "ggg"
+echo "aaa = $0"	
+echo "bbb = $1"
+echo  "daeqwe = $2"
+echo "eqweqw = $3"
+echo "fdd = $4"
+echo "ccc = $5"
